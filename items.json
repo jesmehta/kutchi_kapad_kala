@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Item 1",
+        "image": "images/item1.jpg",
+        "description": "This is a sample item."
+    },
+    {
+        "name": "Item 2",
+        "image": "images/item2.jpg",
+        "description": "Another sample item with some details."
+    },
+    {
+        "name": "Item 3",
+        "image": "images/item3.jpg",
+        "description": "Another sample item with some details, again."
+    }
+]
